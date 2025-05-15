@@ -1,10 +1,9 @@
-👋 Hi! 👋 I’m @miiakorhonen a.k.a Miia Korhonen, former occupational therapist and now a student of Computer Science and Engineering.
+👋 Hi! 👋 I’m @miiakorhonen a.k.a Miia Korhonen, former occupational therapist and now a second-year student of Computer Science and Engineering.
 I have started to study CSE at the Unversity of Oulu in September 2024.
 
-At the moment I’m interested in Biomedical Engineering, Artificial Intelligence and Applied Computing.
-I have already studied Elementary Programming (Python), Calculus I, Matrix Algebra, Electrical Measurement Principles and Human-Computer Interaction. 
-Currently I'm learning Calculus II, Probability and Mathematical Statistics Programming 2 (Java) and Digital Techniques 1.
-I’m looking for a summer trainee position for the summer 2025.
+At the moment I’m interested in Biomedical Engineering, Artificial Intelligence and testing.
+I have already studied Elementary Programming (Python), Programming 2 (Java), Calculus I and II, Matrix Algebra, Probability and Mathematical Statistics, Electrical Measurement Principles, Human-Computer Interaction, Digital Techniques 1, Principles of Digital Fabrication and Introduction to Artificial Intelligence.
+I’m looking for a summer trainee position for the summer 2026.
 You can contact me via email (miia.3.korhonen@student.oulu.fi).
 
 I also have created a mobile application hi-fi prototype related to the course Human-Computer Interaction (5 cr). You can check it out through following link: 
